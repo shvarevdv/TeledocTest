@@ -1,0 +1,15 @@
+﻿@model IEnumerable<TeledocTestProject.Models.Founder>
+@{
+    ViewBag.Title = "Home";
+}
+<h1>Домашняя страница</h1>
+<div>
+    <a asp-action="RedirectToIndividualEntrepreneurs">Индивидуальные предприниматели.</a>
+</div>
+<div>
+    <a asp-action="RedirectToEntityClients">Юридические лица.</a>
+</div>
+<div> 
+    <a asp-action="RedirectToFounders">Учредители.</a>
+</div>
+
