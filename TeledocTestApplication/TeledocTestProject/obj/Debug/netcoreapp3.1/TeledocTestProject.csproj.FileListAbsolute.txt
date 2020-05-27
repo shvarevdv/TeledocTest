@@ -170,7 +170,6 @@ D:\Repository\VisualStudioRepository\TeledocTest\TeledocTestApplication\TeledocT
 D:\Repository\VisualStudioRepository\TeledocTest\TeledocTestApplication\TeledocTestProject\obj\Debug\netcoreapp3.1\Razor\Views\Founders\Details.cshtml.g.cs
 D:\Repository\VisualStudioRepository\TeledocTest\TeledocTestApplication\TeledocTestProject\obj\Debug\netcoreapp3.1\Razor\Views\Founders\Edit.cshtml.g.cs
 D:\Repository\VisualStudioRepository\TeledocTest\TeledocTestApplication\TeledocTestProject\obj\Debug\netcoreapp3.1\Razor\Views\Founders\Index.cshtml.g.cs
-D:\Repository\VisualStudioRepository\TeledocTest\TeledocTestApplication\TeledocTestProject\obj\Debug\netcoreapp3.1\TeledocTestProject.csprojAssemblyReference.cache
 D:\Repository\VisualStudioRepository\TeledocTest\TeledocTestApplication\TeledocTestProject\obj\Debug\netcoreapp3.1\Razor\Views\IndividualEntrepreneurs\Create.cshtml.g.cs
 D:\Repository\VisualStudioRepository\TeledocTest\TeledocTestApplication\TeledocTestProject\obj\Debug\netcoreapp3.1\Razor\Views\IndividualEntrepreneurs\Delete.cshtml.g.cs
 D:\Repository\VisualStudioRepository\TeledocTest\TeledocTestApplication\TeledocTestProject\obj\Debug\netcoreapp3.1\Razor\Views\IndividualEntrepreneurs\Details.cshtml.g.cs
