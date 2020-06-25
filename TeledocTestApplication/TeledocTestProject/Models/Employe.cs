@@ -9,7 +9,7 @@ namespace TeledocTestProject.Models
     {
         public int Id { get; set; }
         [JsonPropertyName("ИНН")]
-        public int Inn { get; set; }        
+        public string Inn { get; set; }        
         public DateTime CreateDate { get; private set; }
         public DateTime UpdateDate { get; private set; }
 

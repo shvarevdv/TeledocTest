@@ -13,25 +13,25 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.FirstName)
+                Имя
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.SecondName)
+               Отчество
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.LastName)
+                Фамилия
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Client)
+                Юричдическое лицо
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Inn)
+                ИНН
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.CreateDate)
+                Время создания
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.UpdateDate)
+                Время последнего обновления
             </th>
             <th></th>
         </tr>
@@ -61,9 +61,9 @@
                 @Html.DisplayFor(modelItem => item.UpdateDate)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.Id">Редактировать</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Детали</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Удалить</a>
             </td>
         </tr>
 }

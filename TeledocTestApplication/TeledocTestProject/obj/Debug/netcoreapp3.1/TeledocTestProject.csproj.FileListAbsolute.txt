@@ -175,3 +175,4 @@ D:\Repository\VisualStudioRepository\TeledocTest\TeledocTestApplication\TeledocT
 D:\Repository\VisualStudioRepository\TeledocTest\TeledocTestApplication\TeledocTestProject\obj\Debug\netcoreapp3.1\Razor\Views\IndividualEntrepreneurs\Details.cshtml.g.cs
 D:\Repository\VisualStudioRepository\TeledocTest\TeledocTestApplication\TeledocTestProject\obj\Debug\netcoreapp3.1\Razor\Views\IndividualEntrepreneurs\Edit.cshtml.g.cs
 D:\Repository\VisualStudioRepository\TeledocTest\TeledocTestApplication\TeledocTestProject\obj\Debug\netcoreapp3.1\Razor\Views\IndividualEntrepreneurs\Index.cshtml.g.cs
+D:\Repository\VisualStudioRepository\TeledocTest\TeledocTestApplication\TeledocTestProject\obj\Debug\netcoreapp3.1\TeledocTestProject.csprojAssemblyReference.cache
